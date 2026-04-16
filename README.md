@@ -16,8 +16,8 @@ professionally and contribute to real products.
 | Area           | Skills & Tools                                                 |
 | -------------- | -------------------------------------------------------------- |
 | **Frontend**   | HTML, CSS, JavaScript, TypeScript, React, Next.js, CSS Modules |
-| **Backend**    | Node.js, REST API                                              |
-| **Data & API** | TanStack Query, Axios, fetch                                   |
+| **Backend**    | Node.js, Express, MongoDB                                      |
+| **Data & API** | REST API, TanStack Query, Axios                                |
 | **Tools**      | Git, GitHub, Vite, Formik                                      |
 
 ---
