@@ -50,7 +50,7 @@ Built with **JavaScript**, **HTML**, and **CSS**.
 
 ---
 
-### 🏠 Project YogaBloom
+### 🪷 Project YogaBloom
 
 Team project — responsive website built with **HTML**, **CSS**, and **JavaScript**.
 
@@ -60,7 +60,7 @@ Team project — responsive website built with **HTML**, **CSS**, and **JavaScri
 
 ## 🌐 Languages
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-lightgrey)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-pink)
 ![English](https://img.shields.io/badge/English-Pre--Intermediate-purple)
 
 ---
